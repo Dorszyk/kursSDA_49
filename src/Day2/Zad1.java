@@ -20,4 +20,4 @@ public class Zad1 {
         return input.substring(lastPosition);
     }
 }
-}
+
