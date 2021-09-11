@@ -1,1 +1,0 @@
-Który z poniższych typów prostych jest nieprawidłowy?

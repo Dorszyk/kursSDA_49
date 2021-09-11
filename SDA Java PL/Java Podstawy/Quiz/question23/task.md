@@ -1,1 +1,0 @@
-Jaki rozmiar w bajtach ma zmienna typu `char` ?

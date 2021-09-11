@@ -1,1 +1,0 @@
-Aby zadeklarować tablicę w Javie, należy do typu zmiennej dodać: 

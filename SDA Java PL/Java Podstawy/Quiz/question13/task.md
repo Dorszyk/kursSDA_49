@@ -1,1 +1,0 @@
-Która z poniższych zmiennych jest zainicjowana prawidłowo?

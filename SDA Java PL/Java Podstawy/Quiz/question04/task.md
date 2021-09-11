@@ -1,1 +1,0 @@
-Jak tworzy się zmienną liczbową całkowitą o wartości 5 w Javie?

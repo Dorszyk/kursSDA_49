@@ -1,1 +1,0 @@
-Pierwszy program, jaki pisze każdy programista nazywa się:
