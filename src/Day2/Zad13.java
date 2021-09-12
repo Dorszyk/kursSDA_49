@@ -32,9 +32,9 @@ public class Zad13 {
     }
     private static int getSum(int[] arrays) {
         int sum = 0;
-        for (int i = 0; i < arrays.length; i++) {
-            sum += arrays[i];
-        }
+       //  for (int i = 0; i < arrays.length; i++) {
+       //      sum += arrays[i];
+       // }
         for (int i : arrays) {
             sum += i;
         }
