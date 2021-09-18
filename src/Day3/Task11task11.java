@@ -20,6 +20,5 @@ public class Task11task11 {
 
         System.out.println(String.format("You have %01d days to the next lesson", days));
         System.out.println(String.format("You have " + days + " days to the next lesson"));
-
     }
 }
